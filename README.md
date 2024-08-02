@@ -1,15 +1,15 @@
-# turk-ani-cli
+<div align="center">
+    <h3>A cli to watch anime with Turkish subtitle.</h3>
+</div>
 
-To install dependencies:
+## Building
 
-```bash
-bun install
-```
+1. Clone this repository
+   - `git clone https://github.com/0x15d3/turk-ani-cli.git`
+2. Run:
+   - `bun run src/index.ts --anime "One Piece"`
 
-To run:
-
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.1.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+<p align="center">
+    <a href="https://github.com/0x15d3"><img src="https://github.com/0x15d3.png" width="24%"></img></a>
+    <a href="https://github.com/kroj1"><img src="https://github.com/Luxotick.png" width="24%"></img></a>
+</p>
