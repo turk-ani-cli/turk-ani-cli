@@ -11,5 +11,5 @@
 
 <p align="center">
     <a href="https://github.com/0x15d3"><img src="https://github.com/0x15d3.png" width="24%"></img></a>
-    <a href="https://github.com/kroj1"><img src="https://github.com/Luxotick.png" width="24%"></img></a>
+    <a href="https://github.com/Luxotick"><img src="https://github.com/Luxotick.png" width="24%"></img></a>
 </p>
